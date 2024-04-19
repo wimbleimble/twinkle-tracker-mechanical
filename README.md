@@ -12,7 +12,7 @@ astrophotography mount. For exported STL files, see the latest GitHub release.
 potentiometer.
 - 📁 `Top Section` - Model of secondary gear stage.
 - 📁 `Tripod adaptor` - Model of tripod adaptor for mounting on standard tripod
-thread.
+- 📁 `Other files` - Miscellaneous CAD files
 - `Enclosure demo assy.SLDASM`
 - `v4.SLDASM` - full assembly of design.
 
